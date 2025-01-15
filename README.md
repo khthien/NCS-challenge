@@ -1,1 +1,1 @@
-This repository is for storing reports on Digital Forensic, malware investigation, challenges to improve skills aiming to achieve IFCI certification.
+This repository is for storing reports on Digital Forensic, malware investigation, challenges to improve skills to achieve IFCI certification. This is also my daily job: walking around and investigating attacks on systems. I feel very excited when finding the truth behind it.
